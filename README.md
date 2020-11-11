@@ -8,7 +8,11 @@ This app is a Weather Station Dashboard. The user can type any city in the searc
 ## ScreenShot of the app!
 
 
+<<<<<<< HEAD
 
+=======
+![alt text](https://github.com/Dibello80/BackToTheQuiz/blob/main/screeshot_app/Screen%20Shot_1.png)
+>>>>>>> eda5d0f4cdeac50ebf4e242a5bb5d668530ffd5e
 
 ## Credits
 
