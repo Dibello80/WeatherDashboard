@@ -1,6 +1,4 @@
-# Project
-
-This projecty is called "Weather Dashboard"
+# Weather Dashboard App
 
 ## Description
 
@@ -9,8 +7,8 @@ This app is a Weather Station Dashboard. The user can type any city in the searc
 
 ## ScreenShot of the app!
 
-The following image shows the web application's appearance:
-![myimage-alt-tag](Assets/ScreenShot_App.png)
+
+
 
 ## Credits
 
