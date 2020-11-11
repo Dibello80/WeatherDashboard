@@ -140,7 +140,7 @@ function addToList(c){
     $(listEl).attr("data-value",c.toUpperCase());
     $(".list-group").append(listEl);
 }
-// this function displays past searched cities
+// this function displays past searched cities  click in search history
 function invokePastSearch(event){
     var liEl=event.target;
     if (event.target.matches("li")){
