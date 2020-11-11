@@ -3,7 +3,7 @@
 
 ## Description
 
-This app is a Weather Station Dashboard. The user can type any city in the search bar and once clicked the dashboard will show the current and future weather conditions of that city. Each city searched by the user will also be added to the search history list below the search bar with the possibilty to be cleared by clicking the button ("click history"). The Weather Dashboard will display for each city searched its temperature, humidity, wind speed and UV index. The user is also able to see how the weather on that city will be in the next 5 days. If the user clicks on a city that appears on the "Search History" list the app will display again the current and future weather conditions for that selected city.
+This app is a Weather Station Dashboard. The user can type any city in the search bar and once clicked the dashboard will show the current and future weather conditions of that city. Each city searched by the user will also be added to the search history list below the search bar. History list can be reset by clicking the button ("clear history"). The Weather Dashboard will display for each city searched its temperature, humidity, wind speed and UV index. The user is also able to see how the weather for that city will be in the next 5 days. If the user clicks on a city that appears in the "Search History" list the app will display again the current and future weather conditions for that selected city.
 
 link ==> https://dibello80.github.io/WeatherDashboard/
 
